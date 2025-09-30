@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="api.tests.Base"/>
+      <class name="api.tests.BaseTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
